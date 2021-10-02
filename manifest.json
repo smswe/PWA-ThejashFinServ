@@ -1,0 +1,17 @@
+{
+    "name": "ThejashFinServ",
+    "short_name": "Thejash",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#256064",
+    "theme_color": "#256064", 
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "T.png",
+            "type": "image/png", 
+            "sizes": "500x500"
+        }  
+      ]
+   
+  }
